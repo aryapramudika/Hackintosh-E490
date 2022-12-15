@@ -16,6 +16,14 @@
 		<array>
 			<dict>
 				<key>Comment</key>
+				<string>DSDT.aml</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>DSDT.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>SSDT-AWAC.aml</string>
 				<key>Enabled</key>
 				<true/>
@@ -1253,7 +1261,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v keepsyms=1 debug=0x100 alcid=1</string>
+				<string>-v keepsyms=1 debug=0x100 alcid=15</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
@@ -1324,7 +1332,7 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02952700CDJH4RFB</string>
+			<string>C02913802CDJH4R1H</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
@@ -1338,9 +1346,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro15,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02ZWNYQJHCC</string>
+			<string>C02YHLYUJHCC</string>
 			<key>SystemUUID</key>
-			<string>0EE8326B-9C1A-47DC-ABE8-27FF954D864F</string>
+			<string>87292E09-8755-4EE6-ABBC-D0A5A3B8A0DA</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
