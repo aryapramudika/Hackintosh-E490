@@ -1,6 +1,10 @@
 # Hackintosh-E490
 EFI script Hackintosh in Laptop Thinkpad E490
 
+## MacOS Version
+
+macOS Monterey 12.6.2
+
 
 ## My Laptop Specifications
 
@@ -24,7 +28,6 @@ EFI script Hackintosh in Laptop Thinkpad E490
 
 * Bootloader OpenCore 0.8.7
 
-* Operating System macOS Monterey 12.6.2
 
 
 ## Not Working
